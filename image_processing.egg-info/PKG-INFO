@@ -1,3 +1,13 @@
+Metadata-Version: 2.1
+Name: image-processing
+Version: 0.0.1
+Summary: Pacote para combinação, transformação, identificação e plotagem de imagens
+Home-page: https://github.com/quintinomedeiros/image-processing-package.git
+Author: Quintino Medeiros
+Author-email: quintinomedeiros@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
 # image_processing
 
 Description. 
